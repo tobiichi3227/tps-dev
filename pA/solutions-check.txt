@@ -1,0 +1,17 @@
+ans3.cpp
+solution            compile[OK]
+0-01                sol[OK]    0.010     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
+1-01                sol[OK]    0.009     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
+1-02                sol[OK]    0.009     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
+
+Subtask summary
+
+Terminated.
+Traceback (most recent call last):
+  File "/__w/tps-dev/tps-dev/pA/scripts/internal/invoke.py", line 122, in <module>
+    if is_verdict_expected(subtask_result[0], subtask_result[1], expected_verdict):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/__w/tps-dev/tps-dev/pA/scripts/internal/invoke.py", line 36, in is_verdict_expected
+    raise ValueError("Invalid verdict")
+ValueError: Invalid verdict
+Finished.
