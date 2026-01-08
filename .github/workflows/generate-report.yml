@@ -1,11 +1,11 @@
 name: Generate report
 
 on:
-  push:
-    branches:
-      - '**'
-    paths:
-      - 'p*/**'
+  # push:
+  #   branches:
+  #     - '**'
+  #   paths:
+  #     - 'p*/**'
   workflow_dispatch:
 
 jobs:
