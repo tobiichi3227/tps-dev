@@ -15,7 +15,7 @@ ans1.cpp
 solution            compile[OK]
 0-01                sol[OK]    0.009     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
 1-01                sol[OK]    0.009     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
-1-02                sol[OK]    0.009     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
+1-02                sol[OK]    0.010     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
 samples             [1/1 tests]    [Wrong Answer]        [0/0 pts]      [match with expected]             0-01
 full                [2/2 tests]    [Wrong Answer]        [0/100 pts]    [match with expected]             1-01
 
@@ -27,7 +27,7 @@ Finished.
 ans2.cpp
 solution            compile[OK]
 0-01                sol[OK]    0.009     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
-1-01                sol[OK]    0.009     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
+1-01                sol[OK]    0.010     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
 1-02                sol[OK]    0.009     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
 samples             [1/1 tests]    [Wrong Answer]        [0/0 pts]      [match with expected]             0-01
 full                [2/2 tests]    [Wrong Answer]        [0/100 pts]    [match with expected]             1-01
@@ -40,13 +40,13 @@ Finished.
 ans3.cpp
 solution            compile[OK]
 0-01                sol[OK]    0.010     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
-1-01                sol[OK]    0.010     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
-1-02                sol[OK]    0.010     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
-samples             [1/1 tests]    [Wrong Answer]        [0/0 pts]      [expected: correct]               0-01
-full                [2/2 tests]    [Wrong Answer]        [0/100 pts]    [expected: correct]               1-01
+1-01                sol[OK]    0.009     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
+1-02                sol[OK]    0.009     check[OK]        0  [Wrong Answer]          The output differs from the correct answer.
+samples             [1/1 tests]    [Wrong Answer]        [0/0 pts]      [match with expected]             0-01
+full                [2/2 tests]    [Wrong Answer]        [0/100 pts]    [match with expected]             1-01
 
 Subtask summary
 0/100 pts
 
 Finished.
-Finished.
+
