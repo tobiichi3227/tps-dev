@@ -1,5 +1,14 @@
 {
-	"correct.cpp": {
-		"verdict": "model_solution"
-	}
+    "correct.cpp": {
+        "verdict": "model_solution"
+    },
+    "ans1.cpp": {
+        "verdict": "wrong_answer"
+    },
+    "ans2.cpp": {
+        "verdict": "wrong_answer"
+    },
+    "ans3.cpp": {
+        "verdict": "wrong_answer"
+    }
 }
