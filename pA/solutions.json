@@ -3,12 +3,12 @@
         "verdict": "model_solution"
     },
     "ans1.cpp": {
-        "verdict": "wrong_answer"
+        "verdict": "incorrect"
     },
     "ans2.cpp": {
-        "verdict": "wrong_answer"
+        "verdict": "incorrect"
     },
     "ans3.cpp": {
-        "verdict": "wrong_answer"
+        "verdict": "incorrect"
     }
 }
